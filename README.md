@@ -42,6 +42,9 @@ Want to know more about me and my work ? Get in touch !
   <a href="https://nodejs.org/en/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
   </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="ExpressJS" width="40" height="40"/>
+  </a>
    <a href="https://sass-lang.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> 
   </a>
