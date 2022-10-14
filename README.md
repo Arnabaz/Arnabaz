@@ -67,7 +67,7 @@ Want to know more about me and my work ? Get in touch !
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
   </a>
    <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/tree/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/tree/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
   </a>
  
 </p>
