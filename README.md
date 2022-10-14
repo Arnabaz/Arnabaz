@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/badge/Gmail?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/vallet-clement/" >
-    <img src="https://img.shields.io/badge/Clement Vallet.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+    <img src="https://img.shields.io/badge/Clement_Vallet-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
   <a href="https://twitter.com/ArnabazFR" >
-    <img src="https://img.shields.io/badge/@ArnabazFR.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/@ArnabazFR.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
