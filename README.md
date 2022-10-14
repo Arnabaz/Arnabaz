@@ -8,13 +8,13 @@
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"  />
   </a>
   <a href="mailto:clement.vallet.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/vallet-clement/" >
-    <img src="https://img.shields.io/badge/clement-vallet.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+    <img src="https://img.shields.io/badge/Clement Vallet.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
   <a href="https://twitter.com/ArnabazFR" >
-    <img src="https://img.shields.io/badge/@ArnabazFR.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/@ArnabazFR.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
