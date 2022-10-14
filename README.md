@@ -25,7 +25,7 @@ Currently, I'm looking for a web developer job.
 Want to know more about me and my work ? Get in touch !
 
 
-<h3 align="left" style="margin: 200px 20px">Languages and Tools :</h3>
+<h3 align="left" style="margin-top:200px">Languages and Tools :</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
