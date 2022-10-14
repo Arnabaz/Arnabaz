@@ -1,6 +1,6 @@
 <h1 align=center> Hi there 👋 I'm Clement, aka Arnabaz</h1>
 
-<h2 align=center>Web Developer React/Node/JS</h2>
+<h2 align=center>Self-taught Web Developer React/Node/JS</h2>
 
 <p align="center">
   
@@ -17,6 +17,14 @@
     <img src="https://img.shields.io/badge/@ArnabazFR-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
+
+I'm Arnabaz, a web developer based in Montpellier, South of France and I'm passionate about building website or web application.
+
+Currently, I'm looking for a web developer job.
+
+Want to know more about me and my work ? Get in touch !
+
+
 
 
 <!--
