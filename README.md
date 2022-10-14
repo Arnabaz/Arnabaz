@@ -42,9 +42,6 @@ Want to know more about me and my work ? Get in touch !
   <a href="https://nodejs.org/en/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
   </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
    <a href="https://sass-lang.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> 
   </a>
@@ -59,9 +56,6 @@ Want to know more about me and my work ? Get in touch !
   </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
