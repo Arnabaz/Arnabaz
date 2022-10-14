@@ -18,7 +18,7 @@
   </a>
 </p>
 
-I'm Arnabaz, a web developer based in Montpellier, South of France and I'm passionate about building website or web application.
+I'm Arnabaz, a web developer based in Montpellier, South of France and I'm passionate about building website and web application.
 
 Currently, I'm looking for a web developer job.
 
