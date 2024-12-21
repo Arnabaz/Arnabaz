@@ -15,9 +15,9 @@
   </a>
 </p>
 
-I'm Arnabaz, a web developer based in Montpellier, South of France and I'm passionate about building website and web application.
+I'm Arnabaz, a web developer based in Montpellier, South of France and I'm passionate about building websites and web applications.
 
-Currently, I'm looking for a web developer job.
+Currently, I'm working for Capgemini as a software engineer. However, I'm always open to new job opportunities.
 
 Want to know more about me and my work ? Get in touch !
 
