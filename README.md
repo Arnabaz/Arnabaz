@@ -1,6 +1,6 @@
 <h1 align=center> Hi there 👋 I'm Clement, aka Arnabaz</h1>
 
-<h2 align=center>Self-taught Web Developer JS/TS</h2>
+<h2 align=center>Self-taught Web Developer JS/TS/Node</h2>
 
 <p align="center">
   
